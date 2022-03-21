@@ -37,8 +37,10 @@ function startGame(){
 ***
 ## Education
 ***
-***
+* Faculty of Economics & Management, specialization in “Antirecession Management” from Tomsk Polytechnic University in 2010.
+* Product management in IT»(PRO9) program in 2018.
+
+
 ## Language skills
 * Russian - native,
 * English - upper-intermediate.
-***
