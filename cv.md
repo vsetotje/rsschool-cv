@@ -14,7 +14,7 @@ Have a failed startup and more or less working b2b business. But I always wonder
 ***
 ## My tech stack
     Tech   | Skill level
------------|:-----------------------------------:
-HTML5      |   Competent
-CSS        |   Basics with some flexbox and grid
-JS         |   Know all the basics
+-----------|:------------------------------------:
+HTML5      |   Competent                         |
+CSS        |   Basics with some flexbox and grid |
+JS         |   Know all the basics               |
