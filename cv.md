@@ -21,7 +21,22 @@ Have a failed startup and more or less working b2b business. But I always wonder
 ***
 ## Code Example
 ***
+I was taking some classes from the great guys at Scrimba. Part of the project related to Blackjack game.
+```
+function startGame(){
+    let firstCard = getRandomCard(1,13)
+    let secondCard = getRandomCard(1,13)
+    cards = [firstCard,secondCard]
+    sum = firstCard + secondCard
+    let isAlive = true
+    console.log(firstCard)
+    console.log(secondCard)
+    renderGame()
+    }
+```
+***
 ## Education
+***
 ***
 ## Language skills
 * Russian - native,
