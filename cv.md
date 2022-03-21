@@ -18,3 +18,12 @@ Have a failed startup and more or less working b2b business. But I always wonder
 |HTML5      |   Competent |
 |CSS        |   Basics with some flexbox and grid |
 |JS         |   Know all the basics (arrays, conditions etc.) |
+***
+## Code Example
+***
+## Education
+***
+## Language skills
+* Russian - native,
+* English - upper-intermidiate.
+***
