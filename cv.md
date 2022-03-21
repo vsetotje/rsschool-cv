@@ -18,6 +18,7 @@ Have a failed startup and more or less working b2b business. But I always wonder
 |HTML5      |   Competent |
 |CSS        |   Basics with some flexbox and grid |
 |JS         |   Know all the basics (arrays, conditions etc.) |
+|Git        | Use it day to day |
 ***
 ## Code Example
 ***
