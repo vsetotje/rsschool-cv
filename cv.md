@@ -25,5 +25,5 @@ Have a failed startup and more or less working b2b business. But I always wonder
 ***
 ## Language skills
 * Russian - native,
-* English - upper-intermidiate.
+* English - upper-intermediate.
 ***
